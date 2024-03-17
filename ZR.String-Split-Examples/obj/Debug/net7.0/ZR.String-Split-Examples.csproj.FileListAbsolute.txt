@@ -1,0 +1,15 @@
+E:\GitHub\Articles-Posts\C#\C# Split String Where There Is the Backslash\ZR.String-Split-Examples\ZR.String-Split-Examples\bin\Debug\net7.0\ZR.String-Split-Examples.exe
+E:\GitHub\Articles-Posts\C#\C# Split String Where There Is the Backslash\ZR.String-Split-Examples\ZR.String-Split-Examples\bin\Debug\net7.0\ZR.String-Split-Examples.deps.json
+E:\GitHub\Articles-Posts\C#\C# Split String Where There Is the Backslash\ZR.String-Split-Examples\ZR.String-Split-Examples\bin\Debug\net7.0\ZR.String-Split-Examples.runtimeconfig.json
+E:\GitHub\Articles-Posts\C#\C# Split String Where There Is the Backslash\ZR.String-Split-Examples\ZR.String-Split-Examples\bin\Debug\net7.0\ZR.String-Split-Examples.dll
+E:\GitHub\Articles-Posts\C#\C# Split String Where There Is the Backslash\ZR.String-Split-Examples\ZR.String-Split-Examples\bin\Debug\net7.0\ZR.String-Split-Examples.pdb
+E:\GitHub\Articles-Posts\C#\C# Split String Where There Is the Backslash\ZR.String-Split-Examples\ZR.String-Split-Examples\obj\Debug\net7.0\ZR.String-Split-Examples.csproj.AssemblyReference.cache
+E:\GitHub\Articles-Posts\C#\C# Split String Where There Is the Backslash\ZR.String-Split-Examples\ZR.String-Split-Examples\obj\Debug\net7.0\ZR.String-Split-Examples.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\Articles-Posts\C#\C# Split String Where There Is the Backslash\ZR.String-Split-Examples\ZR.String-Split-Examples\obj\Debug\net7.0\ZR.String-Split-Examples.AssemblyInfoInputs.cache
+E:\GitHub\Articles-Posts\C#\C# Split String Where There Is the Backslash\ZR.String-Split-Examples\ZR.String-Split-Examples\obj\Debug\net7.0\ZR.String-Split-Examples.AssemblyInfo.cs
+E:\GitHub\Articles-Posts\C#\C# Split String Where There Is the Backslash\ZR.String-Split-Examples\ZR.String-Split-Examples\obj\Debug\net7.0\ZR.String-Split-Examples.csproj.CoreCompileInputs.cache
+E:\GitHub\Articles-Posts\C#\C# Split String Where There Is the Backslash\ZR.String-Split-Examples\ZR.String-Split-Examples\obj\Debug\net7.0\ZR.String-Split-Examples.dll
+E:\GitHub\Articles-Posts\C#\C# Split String Where There Is the Backslash\ZR.String-Split-Examples\ZR.String-Split-Examples\obj\Debug\net7.0\refint\ZR.String-Split-Examples.dll
+E:\GitHub\Articles-Posts\C#\C# Split String Where There Is the Backslash\ZR.String-Split-Examples\ZR.String-Split-Examples\obj\Debug\net7.0\ZR.String-Split-Examples.pdb
+E:\GitHub\Articles-Posts\C#\C# Split String Where There Is the Backslash\ZR.String-Split-Examples\ZR.String-Split-Examples\obj\Debug\net7.0\ZR.String-Split-Examples.genruntimeconfig.cache
+E:\GitHub\Articles-Posts\C#\C# Split String Where There Is the Backslash\ZR.String-Split-Examples\ZR.String-Split-Examples\obj\Debug\net7.0\ref\ZR.String-Split-Examples.dll
